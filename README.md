@@ -1,4 +1,4 @@
-# Sales-And-Customer-Analysis-And-Dashboard
+# Sales-And-Customer-Analysis-Dashboard
 
 Project Overview
 --------------------
